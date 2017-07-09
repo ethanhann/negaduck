@@ -1,0 +1,45 @@
+@import "variables";
+
+.p-t-xl { padding-top: $padding-extra-large; }
+.p-r-xl { padding-right: $padding-extra-large; }
+.p-b-xl { padding-bottom: $padding-extra-large; }
+.p-l-xl { padding-left: $padding-extra-large; }
+.p-h-xl { padding-left: $padding-extra-large; padding-right: $padding-extra-large; }
+.p-v-xl { padding-top: $padding-extra-large; padding-bottom: $padding-extra-large; }
+
+.p-t-lg { padding-top: $padding-large; }
+.p-r-lg { padding-right: $padding-large; }
+.p-b-lg { padding-bottom: $padding-large; }
+.p-l-lg { padding-left: $padding-large; }
+.p-h-lg { padding-left: $padding-large; padding-right: $padding-large; }
+.p-v-lg { padding-top: $padding-large; padding-bottom: $padding-large; }
+
+.p-md { padding: $padding-medium; }
+.p-t-md { padding-top: $padding-medium; }
+.p-r-md { padding-right: $padding-medium; }
+.p-b-md { padding-bottom: $padding-medium; }
+.p-l-md { padding-left: $padding-medium; }
+.p-h-md { padding-left: $padding-medium; padding-right: $padding-medium; }
+.p-v-md { padding-top: $padding-medium; padding-bottom: $padding-medium; }
+
+.p-t-sm { padding-top: $padding-small; }
+.p-r-sm { padding-right: $padding-small; }
+.p-b-sm { padding-bottom: $padding-small; }
+.p-l-sm { padding-left: $padding-small; }
+.p-h-sm { padding-left: $padding-small; padding-right: $padding-small; }
+.p-v-sm { padding-top: $padding-small; padding-bottom: $padding-small; }
+
+.p-t-xs { padding-top: $padding-extra-small; }
+.p-r-xs { padding-right: $padding-extra-small; }
+.p-b-xs { padding-bottom: $padding-extra-small; }
+.p-l-xs { padding-left: $padding-extra-small; }
+.p-h-xs { padding-left: $padding-extra-small; padding-right: $padding-extra-small; }
+.p-v-xs { padding-top: $padding-extra-small; padding-bottom: $padding-extra-small; }
+
+.p-none { padding: $padding-none; }
+.p-t-none { padding-top: $padding-none; }
+.p-r-none { padding-right: $padding-none; }
+.p-b-none { padding-bottom: $padding-none; }
+.p-l-none { padding-left: $padding-none; }
+.p-h-none { padding-left: $padding-none; padding-right: $padding-none; }
+.p-v-none { padding-top: $padding-none; padding-bottom: $padding-none; }

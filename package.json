@@ -1,0 +1,21 @@
+{
+  "name": "negaduck",
+  "version": "1.0.0",
+  "description": "Helper classes for spacing",
+  "main": "dist/negaduck.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethanhann/negaduck.git"
+  },
+  "keywords": [
+    "CSS",
+    "Spacing",
+    "Helper"
+  ],
+  "author": "Ethan Hann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ethanhann/negaduck/issues"
+  },
+  "homepage": "https://github.com/ethanhann/negaduck#readme"
+}
