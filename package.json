@@ -1,6 +1,6 @@
 {
   "name": "negaduck",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helper classes for spacing",
   "main": "dist/negaduck.css",
   "repository": {
